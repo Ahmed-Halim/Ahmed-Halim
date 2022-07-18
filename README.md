@@ -26,7 +26,7 @@
 
 ### Most used technologies
 
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40"/></a> &nbsp; &nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40"/></a> &nbsp; 
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="40"/></a> &nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/nodejs-original.svg" alt="nodejs" height="40"/></a> &nbsp;
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" alt="graphql" height="40"/></a> &nbsp;
