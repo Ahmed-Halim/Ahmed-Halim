@@ -24,20 +24,20 @@
 <a href="https://discordapp.com/users/Halim#7073" target="blank"><img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" alt="Halim" height="30" /></a> &nbsp;
 <br>
 
-### Technologies
+### Most used technologies
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40"/> &nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/nodejs-original.svg" alt="nodejs" height="40"/> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" alt="graphql" height="40"/> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" alt="nextjs" height="40"/> &nbsp;
-<img src="https://gitlab.com/uploads/-/system/project/avatar/6731866/bootstrap-stack.png" alt="bootstrap" height="40"/> &nbsp;
-<img src="https://mui.com/static/logo.png" alt="XCode" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/> &nbsp;
-<img src="https://www.entropywins.wtf/blog/wp-content/uploads/2018/10/php-1.png" alt="php" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="40"/> &nbsp;
-<img src="https://halim.netlify.app/img/mysql.png" alt="mysql" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSC" height="40"/> &nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40"/></a> &nbsp; &nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="40"/></a> &nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/nodejs-original.svg" alt="nodejs" height="40"/></a> &nbsp;
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" alt="graphql" height="40"/></a> &nbsp;
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" alt="nextjs" height="40"/></a> &nbsp;
+<a href="#"><img src="https://gitlab.com/uploads/-/system/project/avatar/6731866/bootstrap-stack.png" alt="bootstrap" height="40"/></a> &nbsp;
+<a href="#"><img src="https://mui.com/static/logo.png" alt="XCode" height="40"/> &nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/></a> &nbsp;
+<a href="#"><img src="https://www.entropywins.wtf/blog/wp-content/uploads/2018/10/php-1.png" alt="php" height="40"/></a> &nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="40"/></a> &nbsp;
+<a href="#"><img src="https://halim.netlify.app/img/mysql.png" alt="mysql" height="40"/></a> &nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="40"/></a> &nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40"/></a> &nbsp;
+<a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/></a> &nbsp;
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSC" height="40"/></a> &nbsp;
