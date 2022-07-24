@@ -13,6 +13,9 @@
 - 📫 How to reach me **ahmed.halim162097@gmail.com**
 
 - 📄 Know about my experiences **[[RESUME]]()**
+
+- 💬 Motto: Keep striving for progress, not perfection
+
 <br>
 <hr>
 
