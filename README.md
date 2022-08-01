@@ -2,7 +2,8 @@
 <img src="https://komarev.com/ghpvc/?username=Ahmed-Halim&label=Profile%20views&color=0e75b6&style=flat" alt="Halim" />
 
 # Hi 👋, I'm Halim
-### A Software Engineer 👨🏻‍💻 with focus on Frontend development 
+### Front-End Focused Software Engineer 👨🏻‍💻
+
 </center>
 <br>
 
